@@ -1,0 +1,249 @@
+*
+{
+    margin:0%;
+    padding:0%
+}
+body
+{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#navbar .logo 
+{
+    float:left;
+    color:#f7c08a;
+    padding-top:10px;
+}
+.t02,ul,li,a
+{
+   text-decoration:none;
+   overflow:auto;
+}
+#navbar
+{
+    background:black;
+    overflow:auto;
+
+}
+#navbar ul
+{
+list-style:none;
+float:right;
+padding:30px;
+}
+#navbar ul li
+{
+    float:left;
+}
+
+#navbar ul li a
+{
+    display:block;
+    padding:20px;
+    text-align:center;
+    color:#f7c08a;
+}
+#navbar ul li a:hover
+{
+    background:#444;
+    color:#f7c08a;
+}
+/* showcase */
+#t03
+{
+    color:#fff;
+    background: url('/IMGE/pexels-pixabay-258154\ \(1\).jpg') no-repeat center center/cover;
+    height:800px;
+    text-align:center;
+    padding-top:150px;
+}
+#navbar .logo a{
+    padding:30px 20px;
+}
+.t04
+{
+    color:#f7c08a;
+}
+.inc_size
+{
+    font-size:40px;
+}
+.p_ad
+{
+    padding:10px 10px;
+    cursor:pointer;
+}
+.p_ad:hover
+{
+display:inline-block;
+background:#f7c08a;
+color:black;
+font-weight: bold;
+}
+#t05
+{
+    line-height:2.5em
+}
+#ali
+
+{
+    margin-top:30px;
+}
+.About
+{
+    color:black;
+    text-align:center;
+    float:right;
+    padding-top: 30px;
+    background:#f7c08a;
+    width:50%;
+    height:420px;
+}
+.about #t08
+{
+    padding: 30px 40px;
+    margin-bottom: 20px;
+    width:50%;
+    text-align:center;
+}
+.image
+{
+    display:inline;
+}
+.box
+{
+float:left;
+width:33.33%;
+padding:30px;
+text-align:center;
+}
+#marri
+{
+    text-align:center;
+    color:black;
+
+}
+#icons
+{
+    background: #f7c08a;
+    width:100%;
+    display: inline;
+}
+.box3
+{
+    float:left;
+    width:.33.3%;
+     padding:30px;
+     text-align:center;
+     
+}
+#testimonials .testimonial img 
+{
+width:100px;
+float:left;
+margin-right: 20px;
+}
+#unique
+{
+    background:#f7c08a;
+}
+.testimonial
+{
+    background: #f7c08a;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+#about-info .info-right
+{
+    float:right;
+    width:50%;
+    min-height:100%;
+}
+#about-info .info-right img 
+{
+    display:block;
+    margin:auto;
+    width:40%;
+    border-radius: 50%;
+    padding-top:10px;
+}
+#about-info .info-left
+{
+    float:left;
+    width:50%;
+    min-height:100%;
+}
+#algn
+{
+    text-align: center;
+}
+#about-info .container
+{
+    height:198px;
+}
+#about-info .info-left p
+{
+    padding:0px 20px;
+}
+#ta
+{
+    text-align:center;
+    padding:0px 20px;
+}
+#about-info .inc_size
+{
+    padding:0px 20px;
+}
+.color
+{
+    background:black;
+    color:#fff;
+    text-align:center;
+    padding: 10px 10px;
+}
+.py
+{
+    color:#fff;
+    padding: 10px 10px;
+}
+.pa
+{
+ padding-left: 10px;
+}
+.contain label 
+{
+display:block;
+margin-bottom: 20px;
+}
+#message
+{
+    height:200px;
+}
+.cont
+{
+    text-align: center;
+
+}
+.py
+{
+font-weight:bold;
+}
+#testimonials
+{
+    height:600px;
+    background:url('/IMGE/pexels-andrea-davis-2873951.jpg') no-repeat center center/cover;
+    padding-top: 40px;
+}
+#testimonials h2
+{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.cont
+{
+background:rgb(64, 78, 77);
+}
+#footer
+{
+    text-align:center;
+
+}

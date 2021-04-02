@@ -1,0 +1,56 @@
+#navbar .logo 
+{
+float:none;
+text-align:center;
+}
+#navbar ul, #navbar ul li 
+{
+    float:none;
+}
+.image
+{
+    display:none;
+}
+.About
+{
+    float:none;
+    width:100%;
+}
+.about #t08
+{
+    width:100%;
+    text-align:center;
+}
+.box
+{
+    display:block;
+    float:none;
+    width:100%;
+}
+.box3
+{
+    float:none;
+    width:100%;
+}
+#unique p
+{
+    padding-left: 10px;
+}
+/* About page */
+#about-info .info-left
+{
+   float:none;
+   width:100%;
+   overflow:hidden; 
+}
+#about-info .info-right
+{
+    float:none;
+    width:100%;
+    margin-bottom: 20px;
+}
+.testi
+{
+    float:none;
+    width:100%;
+}
