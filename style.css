@@ -50,7 +50,7 @@ padding:30px;
 #t03
 {
     color:#fff;
-    background: url('/IMGE/pexels-pixabay-258154\ \(1\).jpg') no-repeat center center/cover;
+    background: url('images/resort.jpg') no-repeat center center/cover;
     height:800px;
     text-align:center;
     padding-top:150px;
@@ -229,7 +229,7 @@ font-weight:bold;
 #testimonials
 {
     height:600px;
-    background:url('/IMGE/pexels-andrea-davis-2873951.jpg') no-repeat center center/cover;
+    background:url('images/model.jpg') no-repeat center center/cover;
     padding-top: 40px;
 }
 #testimonials h2
